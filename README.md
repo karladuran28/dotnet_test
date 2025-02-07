@@ -1,11 +1,9 @@
 # Prueba .NET + ReactJS
 ## Descripción
-Proyecto creado para la gestión de formularios, lo cual incluye:
-* Creación
-* Modificación
-* Eliminación
+Proyecto creado para la gestión de formularios, lo cual incluye para este alcance: 
+* Visualización de formularios
 
-Y además, se puede consultar y añadir registros para cada formulario. 
+Y además, se puede consultar y modificar registros para cada formulario. 
 
 El Frontend está desarrollado en Javascript, con ReactJS.
 El Backend está desarrollado en C#, con .NET y base de datos MySQL.
@@ -27,7 +25,7 @@ El Backend se lo puede desplegar a través de Docker.
 ![captura1](capturas/captura1.png)
 
 ### Captura para la edición de formularios
-![captura2](capturas/capturas2.png)
+![captura2](capturas/captura2.png)
 
 ### Captura para la edición de inputs (campos) de un formulario
-![captura3](capturas/capturas3.png)
+![captura3](capturas/captura3.png)
